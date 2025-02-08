@@ -1,0 +1,20 @@
+# Python cache and virtual environment
+*.pyc
+__pycache__/
+pyvenv.cfg
+
+# Virtual environment folders
+Lib/
+Scripts/
+Include/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Ignore any editor or system files
+.DS_Store
+.idea/
+.vscode/
